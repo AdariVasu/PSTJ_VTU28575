@@ -1,0 +1,1 @@
+Boyer–Moore pattern searching commonly uses the bad-character and good-suffix heuristics to skip text positions. The syllabus only names the algorithm and does not specify a complete input/output format for its practice task; this folder provides KMP-based search separately in `StrStrFirstOccurrence.java` and palindrome/string practice solutions.
